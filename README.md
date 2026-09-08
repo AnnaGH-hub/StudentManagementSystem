@@ -140,15 +140,5 @@ Student added successfully!
 - [ ] Build a GUI (WPF) or Web API version
 - [ ] Add logging (e.g., Serilog)
 
----
 
-## 📄 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👤 Author
-
-**Shakibul Islam Mobin**
-GitHub: [@siMobin](https://github.com/siMobin)
